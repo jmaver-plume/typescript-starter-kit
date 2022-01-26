@@ -1,5 +1,3 @@
-function run (): void {
-    console.log("Working!")
+export function run (): string {
+    return "Hello World!"
 }
-
-run()
